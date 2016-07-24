@@ -1,4 +1,4 @@
-#The EasyNetQ Hall Of Fame
+# The EasyNetQ Hall Of Fame
 
 A list of all the people who contributed code to the project. Generated from Git logs:
 
