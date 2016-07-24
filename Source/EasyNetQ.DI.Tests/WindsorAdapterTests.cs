@@ -1,5 +1,5 @@
 ﻿using Castle.Windsor;
-using EasyNetQ.Tests.Mocking;
+using EasyNetQ.DI.Tests.Mocking;
 using NUnit.Framework;
 
 namespace EasyNetQ.DI.Tests
