@@ -9,6 +9,7 @@ build:
 branches:
   only:
   - master
+  - develop
 
 artifacts:
   - path: Package\**\*.nupkg
